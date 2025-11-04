@@ -1,3 +1,3 @@
 # Single-Page-HTML-CV
 
-https://github.com/JoaoVPatricio/Single-Page-HTML-CV
+https://roadmap.sh/projects/single-page-cv
